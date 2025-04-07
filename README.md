@@ -16,3 +16,7 @@ caso queira enviar um comando e deseja que ele injete na rede can digite correta
 
 EX > can:44;12343454
 
+
+![image](https://github.com/user-attachments/assets/c5c3af58-ffdc-448f-a80e-86021addc499)
+
+lendo roda fonica
